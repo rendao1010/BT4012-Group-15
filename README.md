@@ -7,5 +7,7 @@ Before conducting model training, we first conduct feature engineering and EDA o
   
 We then conduct model training on a wide range of models, identifying the best two after tuning - CatBoost and LGBM.
   - Found in models folder
+  - Contains 8 different models
+  - All models are trained with the same dataset 
 
 Ultimately, we determine that both models can be used in a credit card company's business workflow in order to better flag up fraudulent transactions.
