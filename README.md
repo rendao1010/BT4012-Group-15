@@ -11,3 +11,9 @@ We then conduct model training on a wide range of models, identifying the best t
   - All models are trained with the same dataset 
 
 Ultimately, we determine that both models can be used in a credit card company's business workflow in order to better flag up fraudulent transactions.
+
+## Files Included:
+- EDA and Summary.ipynb: Contains EDA and summary on best models selected.
+- models
+  - Contains model tuning and explainability for the models trained.
+  - All models are trained on the same dataset.
