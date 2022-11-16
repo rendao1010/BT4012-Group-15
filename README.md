@@ -13,3 +13,4 @@ Ultimately, we determine that both models can be used in a credit card company's
 - models
   - Contains model tuning and explainability for the models trained.
   - All models are trained on the same dataset.
+- Version for the different packages can be found in either requirements.txt file / Top of EDA and Summary.ipynb
